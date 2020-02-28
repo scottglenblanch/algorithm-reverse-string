@@ -7,3 +7,5 @@ const reverseString = str => {
 
   return newStr;
 }
+
+module.exports = reverseString;

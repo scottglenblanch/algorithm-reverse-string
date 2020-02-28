@@ -4,3 +4,5 @@ const reverseString = str => str
       (newStr, curChar) => curChar + newStr,
       ''
     );
+
+module.exports = reverseString;

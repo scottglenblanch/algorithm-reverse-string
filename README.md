@@ -19,8 +19,8 @@ Then, and only then, do you rub the lamp and ask for that same wish."
 
 "Sounds complicated", you retort.
 
-Unbeknowst to you the new rules were not in fact set due to some mis-granted wishes. The true agenda was to inhibit people from requesting wishes.
-The genii who pushed forward these new regulations were truly lazy.
+Unbeknownst to you the new rules were not due to some mis-granted wishes. The true agenda was to inhibit people from requesting wishes.
+The genii who pushed this into genie law were extremely lazy.
 
 Fortunately, you have a laptop at hand.
 If only you could write a program to reverse a string...

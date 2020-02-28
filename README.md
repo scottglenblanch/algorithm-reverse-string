@@ -34,10 +34,13 @@ Examples
 --------
 
 input: hello
+
 output: olleh
 
 input: racecar
+
 output: racecar
 
 input: I like food
+
 output: doof ekil I
